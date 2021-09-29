@@ -32,7 +32,7 @@ echo "x ≥ 0 , x is positive or zero; x is non-negative :" $((x >= y))
 echo "x < 0 x is negative :" $((x < 0))
 echo "x ≤ 0 x is negative or zero :" $((x <= y))
 
-echo  -e "\n------------------------------------------"
+echo  -e "\n-----------------------------------------"
 
 echo -e "\nBASIC ASSIGNATION OPERATORS"
 echo -e "inputs: x=$x , y=$y\n"
